@@ -1,1 +1,18 @@
-# Panda-commerce-Bootstrap-practice
+.panda-card {
+  border: 0;
+  border-radius: 10px;
+}
+.panda-card-footer {
+  border: 0;
+  background-color: white;
+}
+.slider {
+  background-color: #fceae8;
+}
+.catagoris img {
+  width: 100px;
+  margin-left: 10px;
+}
+.catagoris-box {
+  border-radius: 10px;
+}
